@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @retakesthebot
-- 👀 I’m interested in minecrat server
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cpp
+- 🌱 I’m currently learning py and trying cpp
+- 💞️ I’m looking to collaborate on Parrot Bot
 - 📫 How to reach me discord:Retakes#4549
 
 <!---
